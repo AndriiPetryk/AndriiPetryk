@@ -160,7 +160,7 @@ const ProjectLinks = styled.div`
 
 const ProjectLink = styled.a`
     height: 40px;
-    width: 175px;
+    width: 230px;
     border: 2px white solid;
     color: #ffffff;
     text-decoration: none ;  

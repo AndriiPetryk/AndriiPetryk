@@ -18,6 +18,7 @@ import javascript_svg from "../../assets/javascript.svg"
 import mongodb_svg from "../../assets/mongodb.svg"
 import nodejs_svg from "../../assets/nodejs.svg"
 import react_svg from "../../assets/react.svg"
+import chartjs from "../../assets/chartjs.svg"
 import dash1 from '../../assets/dash-1.png'
 
 function OSFTWebApp () {
@@ -41,6 +42,7 @@ function OSFTWebApp () {
                     </BuiltWith>
                     <BuiltWithIcons>
                         <TechStackIcon icon={mongodb_svg} name="MongoDB"/>
+                        <TechStackIcon icon={chartjs} name="Chartjs"/>
                         <TechStackIcon icon={nodejs_svg} name="NodeJS"/>
                         <TechStackIcon icon={express_svg} name="ExpressJS"/>
                         <TechStackIcon icon={react_svg} name="React"/>

@@ -23,6 +23,10 @@ import dash1 from "../../assets/dash-1.png";
 import ProjectVideoDemo from "./osft-video.jsx";
 
 import eshop from '../../assets/e-shop1.png';
+import mongodb_svg from "../../assets/mongodb.svg";
+import chartjs from "../../assets/chartjs.svg";
+import nodejs_svg from "../../assets/nodejs.svg";
+import express_svg from "../../assets/express.svg";
 
 function OSFTReactSDK () {
 
@@ -46,15 +50,12 @@ function OSFTReactSDK () {
                         Built With
                     </BuiltWith>
                     <BuiltWithIcons>
-                        { useTypeScriptIcon ?
-                            <TechStackIcon icon={typescript_svg} name='TypeScript' />
-                            :
-                            <TechStackIcon icon={javascript_svg} name='JavaScript'/>
-                        }
+                        <TechStackIcon icon={javascript_svg} name='JavaScript'/>
+                        <TechStackIcon icon={mongodb_svg} name="MongoDB"/>
+                        <TechStackIcon icon={nodejs_svg} name="NodeJS"/>
+                        <TechStackIcon icon={express_svg} name="ExpressJS"/>
                         <TechStackIcon icon={react_svg} name='React'/>
-                        {/*<TechStackIcon icon={vite_svg} name='Vite'/>*/}
                         <TechStackIcon icon={babel_svg} name='Babel'/>
-                        {/*<TechStackIcon icon={npm_svg} name='NPM'/>*/}
                     </BuiltWithIcons>
                     <ProjectLinks>
                         <ProjectLink target="_blank" href="https://proshop-e-market-b46857edced7.herokuapp.com/">E-shop</ProjectLink>
