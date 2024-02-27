@@ -58,7 +58,7 @@ function OSFTReactSDK () {
                         <TechStackIcon icon={babel_svg} name='Babel'/>
                     </BuiltWithIcons>
                     <ProjectLinks>
-                        <ProjectLink target="_blank" href="https://proshop-e-market-b46857edced7.herokuapp.com/">E-shop</ProjectLink>
+                        <ProjectLink target="_blank" href="https://proshop-e-market.onrender.com">E-shop</ProjectLink>
                         <ProjectLink target="_blank" href="https://github.com/AndriiPetryk/proshop-e-market">View Source Code</ProjectLink>
                     </ProjectLinks>
                 </ProjectDetails>

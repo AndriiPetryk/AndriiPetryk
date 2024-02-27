@@ -45,7 +45,7 @@ function FYTExample () {
                         <TechStackIcon icon={react_svg} name="React"/>
                     </BuiltWithIcons>
                     <ProjectLinks>
-                        <ProjectLink target="_blank" href="https://fitness-app-modern-0439ec66129a.herokuapp.com/">Modern fitness guide</ProjectLink>
+                        <ProjectLink target="_blank" href="https://fitness-app-modern.netlify.app">Modern fitness guide</ProjectLink>
                         <ProjectLink target="_blank" href="https://github.com/AndriiPetryk/fitness-app">View Source Code</ProjectLink>
                     </ProjectLinks>
                 </ProjectDetails>

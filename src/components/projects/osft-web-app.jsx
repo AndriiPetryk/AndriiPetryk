@@ -49,7 +49,7 @@ function OSFTWebApp () {
                         <TechStackIcon icon={javascript_svg} name="JavaScript"/>
                     </BuiltWithIcons>
                     <ProjectLinks>
-                        <ProjectLink target="_blank" href="https://admin-react-dashboard-3fefd24517ed.herokuapp.com/invoices">React admin dashboard</ProjectLink>
+                        <ProjectLink target="_blank" href="https://admin-data-dashboard.netlify.app/">React admin dashboard</ProjectLink>
                         <ProjectLink target="_blank" href="https://github.com/AndriiPetryk/react-admin-dashboard">View Source Code</ProjectLink>
                     </ProjectLinks>
                 </ProjectDetails>
